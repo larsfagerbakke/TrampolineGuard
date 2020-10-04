@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrampolineGuard", "TrampolineGuard\TrampolineGuard.csproj", "{23A23E3A-4D8B-4607-B2AD-AF81A35841BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrampolineGuard.Shared", "TrampolineGuard.Shared\TrampolineGuard.Shared.csproj", "{C6FB5D7A-C36A-4D4E-AF1D-1AA630853791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A23E3A-4D8B-4607-B2AD-AF81A35841BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A23E3A-4D8B-4607-B2AD-AF81A35841BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A23E3A-4D8B-4607-B2AD-AF81A35841BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A23E3A-4D8B-4607-B2AD-AF81A35841BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FB5D7A-C36A-4D4E-AF1D-1AA630853791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FB5D7A-C36A-4D4E-AF1D-1AA630853791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FB5D7A-C36A-4D4E-AF1D-1AA630853791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FB5D7A-C36A-4D4E-AF1D-1AA630853791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE2FB65-371F-4C0C-8772-8644F3C5FBC6}
+	EndGlobalSection
+EndGlobal
